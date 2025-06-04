@@ -16,63 +16,63 @@ Phát hiện lỗi và cảnh báo khi hết sản phẩm hoặc có sự cố
 ⚙️ Công nghệ sử dụng
 📡 Phần cứng:
 
-Vi điều khiển: Arduino Mega / ESP32
+- Vi điều khiển: Arduino Mega / ESP32
 
-Màn hình LCD / OLED hiển thị sản phẩm và hướng dẫn
+- Màn hình LCD / OLED hiển thị sản phẩm và hướng dẫn
 
-Cảm biến cửa: báo khi có người mở máy
+- Cảm biến cửa: báo khi có người mở máy
 
-Cảm biến IR hoặc Load Cell: phát hiện sản phẩm đã lấy
+- Cảm biến IR hoặc Load Cell: phát hiện sản phẩm đã lấy
 
-Động cơ servo hoặc stepper để đẩy sản phẩm
+- Động cơ servo hoặc stepper để đẩy sản phẩm
 
-Module RFID / QR code / NFC (tuỳ chọn cho thanh toán)
+- Module RFID / QR code / NFC (tuỳ chọn cho thanh toán)
 
-Hệ thống khóa từ, đèn LED báo trạng thái
+- Hệ thống khóa từ, đèn LED báo trạng thái
 
 💻 Phần mềm:
 
-Arduino IDE: lập trình điều khiển phần cứng
+- Arduino IDE: lập trình điều khiển phần cứng
 
-Python / Node.js: xử lý dữ liệu, điều khiển hệ thống backend
+- Python / Node.js: xử lý dữ liệu, điều khiển hệ thống backend
 
-Giao diện quản lý: website đơn giản để theo dõi hàng hóa, doanh thu
+- Giao diện quản lý: website đơn giản để theo dõi hàng hóa, doanh thu
 
-Tích hợp API thanh toán (Momo, ZaloPay, VNPAY...)
+- Tích hợp API thanh toán (Momo, ZaloPay, VNPAY...)
 
 🧠 Học máy (Machine Learning) - Tuỳ chọn nâng cao
 Nhận diện sản phẩm bằng camera (sử dụng OpenCV, YOLO...)
 
-Dự báo sản phẩm bán chạy theo thời gian / khu vực
+- Dự báo sản phẩm bán chạy theo thời gian / khu vực
 
-Phân tích hành vi người dùng để đề xuất sản phẩm
+- Phân tích hành vi người dùng để đề xuất sản phẩm
 
 🗃️ Dữ liệu sử dụng
 Nhật ký giao dịch (ngày, giờ, sản phẩm, giá bán)
 
-Dữ liệu tồn kho theo thời gian
+- Dữ liệu tồn kho theo thời gian
 
-Log lỗi từ cảm biến: hết sản phẩm, kẹt hàng, mở cửa bất thường
+- Log lỗi từ cảm biến: hết sản phẩm, kẹt hàng, mở cửa bất thường
 
-Thống kê doanh thu theo ngày/tuần/tháng
+- Thống kê doanh thu theo ngày/tuần/tháng
 
 🚀 Hướng dẫn triển khai
-Lắp ráp phần cứng
+- Lắp ráp phần cứng
 
-Kết nối cảm biến và động cơ với vi điều khiển
+- Kết nối cảm biến và động cơ với vi điều khiển
 
-Cấu hình hiển thị sản phẩm trên màn hình LCD/OLED
+- Cấu hình hiển thị sản phẩm trên màn hình LCD/OLED
 
-Lập trình Arduino
+- Lập trình Arduino
 
-Upload code điều khiển động cơ, đọc tín hiệu cảm biến
+- Upload code điều khiển động cơ, đọc tín hiệu cảm biến
 
-Gửi dữ liệu về máy tính hoặc server qua Serial/Wi-Fi
+- Gửi dữ liệu về máy tính hoặc server qua Serial/Wi-Fi
 
-Xây dựng giao diện và backend
+- Xây dựng giao diện và backend
 
-Giao diện quản lý đơn hàng, kiểm tra tồn kho
+- Giao diện quản lý đơn hàng, kiểm tra tồn kho
 
-Tích hợp API thanh toán và ghi log dữ liệu
+- Tích hợp API thanh toán và ghi log dữ liệu
 
 TÁC GIẢ: Nguyễn Đức Anh
